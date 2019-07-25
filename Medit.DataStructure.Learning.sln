@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2048
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001.LinkedList", "001.LinkedList\001.LinkedList.csproj", "{3FF77FD9-A3A2-4B0C-BC63-FEAB316FEC3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001.LinkedList", "001.LinkedList\001.LinkedList.csproj", "{3FF77FD9-A3A2-4B0C-BC63-FEAB316FEC3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002.BinaryTree", "002.BinaryTree\002.BinaryTree.csproj", "{44318E0D-FECF-446C-9979-3A7C8F2873C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002.BinaryTree", "002.BinaryTree\002.BinaryTree.csproj", "{44318E0D-FECF-446C-9979-3A7C8F2873C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003.ArrayStack", "003.ArrayStack\003.ArrayStack.csproj", "{D7185978-9D0E-42A7-8F38-12562EEED8CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{44318E0D-FECF-446C-9979-3A7C8F2873C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44318E0D-FECF-446C-9979-3A7C8F2873C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44318E0D-FECF-446C-9979-3A7C8F2873C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7185978-9D0E-42A7-8F38-12562EEED8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7185978-9D0E-42A7-8F38-12562EEED8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7185978-9D0E-42A7-8F38-12562EEED8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7185978-9D0E-42A7-8F38-12562EEED8CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
